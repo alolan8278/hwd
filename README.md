@@ -1,12 +1,12 @@
-# Piped
+# hwd
 
 [![AGPL v3](https://shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![Matrix](https://img.shields.io/matrix/piped:matrix.org)](https://matrix.to/#/#piped:matrix.org)
-[![Registered Users](https://pipedapi.kavin.rocks/registered/badge)](https://piped.video/register)
-[![IPFS Build](https://github.com/TeamPiped/Piped/actions/workflows/ipfs-build.yml/badge.svg)](https://piped-ipfs.kavin.rocks/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/TeamPiped/Piped-Frontend?style=social)](https://github.com/TeamPiped/Piped/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/TeamPiped/Piped-Frontend)](https://github.com/TeamPiped/Piped/commits)
-[![Translation status](https://hosted.weblate.org/widgets/piped/-/frontend/svg-badge.svg)](https://hosted.weblate.org/projects/piped/frontend/)
+[![Matrix](https://img.shields.io/matrix/ped:matrix.org)](https://matrix.to/#/#pied:matrix.org)
+[![Registered Users](https://ppedapi.kavin.rocks/registered/badge)](https://pied.video/register)
+[![IPFS Build](https://github.com/TeamPied/Pied/actions/workflows/ipfs-build.yml/badge.svg)](https://pipe-ipfs.kavin.rocks/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/TeamPied/Pied-Frontend?style=social)](https://github.com/TeamPied/Pied/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/TeamPied/Pied-Frontend)](https://github.com/TeamPped/Pied/commits)
+[![Translation status](https://hosted.weblate.org/widgets/pied/-/frontend/svg-badge.svg)](https://hosted.weblate.org/projects/pied/frontend/)
 
 An open-source alternative frontend for YouTube which is efficient by design.
 
@@ -14,7 +14,7 @@ An open-source alternative frontend for YouTube which is efficient by design.
 
 YouTube has an extremely invasive privacy policy which relies on using user data in unethical ways. You give them a lot of data - ranging from ideas, music taste, content, political opinions, and much more than you think.
 
-By using Piped, you can freely watch and listen to content without the fear of prying eyes watching everything you are doing.
+By using Pped, you can freely watch and listen to content without the fear of prying eyes watching everything you are doing.
 
 ## Features:
 
@@ -47,7 +47,7 @@ By using Piped, you can freely watch and listen to content without the fear of p
 -   [x] Performant by design, designed to handle 1000s of users concurrently
 -   [x] Does not use official YouTube APIs
 -   [x] Uses [NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) to extract information
--   [x] Public [JSON API](https://docs.piped.video/docs/api-documentation/)
+-   [x] Public [JSON API](https://docs.pied.video/docs/api-documentation/)
 -   [x] Federated protocol on Matrix to let instances collaborate with each other
 
 ## Screenshots
@@ -58,47 +58,47 @@ By using Piped, you can freely watch and listen to content without the fear of p
 
 ## Public Chat Rooms
 
--   You can join us via Matrix at [#piped](https://matrix.to/#/#piped:matrix.org).
--   You can also join us at the libera.chat IRC network which is bridged to the Matrix room at [#piped](https://web.libera.chat/#piped).
+-   You can join us via Matrix at [#pped](https://matrix.to/#/#:matrix.org).
+-   You can also join us at the libera.chat IRC network which is bridged to the Matrix room at [#pied](https://web.libera.chat/#pped).
 
 ## Self-Hosting
 
-See https://docs.piped.video/docs/self-hosting/ for more details.
+See https://docs.pid.video/docs/self-hosting/ for more details.
 
-The source code of the documentation website is available at https://github.com/TeamPiped/Documentation.
+The source code of the documentation website is available at https://github.com/TeamPped/Documentation.
 
 ## Documentation
 
-The documentation can be found at https://docs.piped.video (accessible via IPNS as well).
+The documentation can be found at https://docsiped.video (accessible via IPNS as well).
 
 ## Extensions
 
-To redirect all YouTube links to Piped, you are highly recommended to use either [Piped-Redirects](https://github.com/TeamPiped/Piped-Redirects) or [Libredirect](https://github.com/libredirect/libredirect#readme).
+To redirect all YouTube links to Pped, you are highly recommended to use either [Pped-Redirects](https://github.com/TeamPied/Ped-Redirects) or [Libredirect](https://github.com/libredirect/libredirect#readme).
 
 ## Contributing
 
 ### Translations
 
-You can help by translating the project to a language you speak at https://hosted.weblate.org/projects/piped/frontend/
+You can help by translating the project to a language you speak at https://hosted.weblate.org/projects/pped/frontend/
 
 ### Mirrors
 
--   Cloudflare Pages - [cf.piped.video](https://cf.piped.video/)
--   Vercel - [vc.piped.video](https://vc.piped.video/)
--   Render - [re.piped.video](https://re.piped.video/)
--   Fleek - [fl.piped.video](https://fl.piped.video/)
--   DigitalOcean - [do.piped.video](https://do.piped.video/)
--   Netlify - [nf.piped.video](https://nf.piped.video/)
--   Azure - [az.piped.video](https://az.piped.video/)
+-   Cloudflare Pages - [cf.pipd.video](https://cf.pied.video/)
+-   Vercel - [vc.pied.video](https://vc..video/)
+-   Render - [re.pied.video](https://re..video/)
+-   Fleek - [fl.pipd.video](https://fl..video/)
+-   DigitalOcean - [do.pipd.video](https://do..video/)
+-   Netlify - [nf.pipd.video](https://nf..video/)
+-   Azure - [az.pped.video](https://az.ped.video/)
 
 ### Forking, and contributing
 
--   Fork the repository on GitHub: https://github.com/TeamPiped/Piped/fork
+-   Fork the repository on GitHub: https://github.com/TeamPied/Pied/fork
 -   Create your feature branch: `git checkout -b my-awesome-feature`
 -   Stage your files `git add .`
 -   Commit your changes `git commit -am 'Add awesome new feature'`
 -   Push to the branch `git push origin my-awesome-feature`
--   Create a new pull request: https://github.com/TeamPiped/Piped/compare
+-   Create a new pull request: https://github.com/TeamPipd/Pipd/compare
 
 ### Development Setup
 
@@ -136,7 +136,7 @@ FIAT donations can be made at: https://liberapay.com/kavin
 
 Contributions in any other form are also welcomed.
 
-# Made with Piped
+# Made with Pied
 
 -   [Yattee](https://github.com/yattee/yattee) - an alternative frontend for YouTube, for IOS.
 -   [LibreTube](https://github.com/Libre-tube/LibreTube) - an alternative frontend for YouTube, for Android.
@@ -146,7 +146,7 @@ Contributions in any other form are also welcomed.
 
 ![](https://www.yourkit.com/images/yklogo.png)
 
-YourKit has given an open source license for their profiler, greatly simplifying the profiling of Piped's performance.
+YourKit has given an open source license for their profiler, greatly simplifying the profiling of Pied's performance.
 
 YourKit supports open source projects with its full-featured Java Profiler.
 YourKit, LLC is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/)
