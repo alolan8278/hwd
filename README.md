@@ -30,7 +30,7 @@ By using Pped, you can freely watch and listen to content without the fear of pr
 -   [x] Playlists
 -   [x] Integration with [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 -   [x] Integration with [LBRY](https://lbry.com/) for streaming
--   [x] Integration with [Return YouTube Dislike](https://returnyoutubedislike.com/) via [RYD-Proxy](https://github.com/TeamPiped/RYD-Proxy)
+-   [x] Integration with [Return YouTube Dislike](https://returnyoutubedislike.com/) via [RYD-oxy](https://github.com/TeamPiped/RYD-Proy)
 -   [x] 4K support
 -   [x] No connections to Google's servers
 -   [x] Playing just audio
